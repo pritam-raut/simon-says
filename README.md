@@ -1,0 +1,1 @@
+this js mini project is made for understand dom eventlistners functions etc... and i had somuch fun to learn these topics.
