@@ -1,0 +1,45 @@
+
+body{
+    text-align: center;
+    background-color: antiquewhite;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 2rem solid black;
+    margin: 2rem;
+   
+    
+}
+
+.one{
+    background-color: rgb(42, 252, 0);
+}
+.two{
+    background-color: rgb(246, 255, 0);
+}
+.three{
+    background-color: rgb(255, 0, 0);
+}
+.four{
+    
+    background-color: rgb(18, 152, 255);
+}
+
+.flash{
+    
+    background-color: rgb(255, 255, 255);
+}
+.userflash{
+    background-color: antiquewhite;
+}
+
